@@ -1,9 +1,8 @@
 ## 我是猿人菌 🐟
 
 - 🐧 大数据开发工程师
-- 🌱 热爱分享 <a href="https://img-blog.csdnimg.cn/20210218132033207.png" target="_blank">公众号『 大数据老哥 』</a>
-- 💬 微信：zwj_bigdataer
-- 🤔 有问题欢迎知乎 <a href="https://www.zhihu.com/people/a-li-bu-chi-yu-79" target="_blank">@阿狸不吃鱼</a>
+- 🌱 热爱分享 <a href="https://img-blog.csdnimg.cn/20210101222640362.png?#pic_center" target="_blank">公众号『 大数据老哥 』</a>
+- 💬 有问题欢迎微信咨询：dsjlg2
 
 ## 新年汇总 ✨
 
