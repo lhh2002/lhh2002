@@ -3,7 +3,7 @@
 - 🐧 大数据开发工程师
 - 🌱 热爱分享 <a href="https://img-blog.csdnimg.cn/20210101222640362.png?#pic_center" target="_blank">公众号『 大数据老哥 』</a>
 - 💬 有问题欢迎微信咨询：dsjlg2
-<img align="微信联系方式" height="120px" src="https://img-blog.csdnimg.cn/20210101222640362.png" /><img align="" height="120px" src="https://img-blog.csdnimg.cn/20210101222640362.png" />
+
 
 ## 新年汇总 ✨
 
